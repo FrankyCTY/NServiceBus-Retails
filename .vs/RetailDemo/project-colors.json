@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e793e0a-fb92-4373-9051-61214bbe39e5": {
+      "ProjectGuid": "2e793e0a-fb92-4373-9051-61214bbe39e5",
+      "DisplayName": "ClientUI",
+      "ColorIndex": 0
+    },
+    "a195fe8b-6b2d-49ae-a7d9-e5e5f2a00f2c": {
+      "ProjectGuid": "a195fe8b-6b2d-49ae-a7d9-e5e5f2a00f2c",
+      "DisplayName": "Sales.Messages",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "6f1ae4a4-99a9-4fe7-833b-ab1b6a97f489": {
+      "ProjectGuid": "6f1ae4a4-99a9-4fe7-833b-ab1b6a97f489",
+      "DisplayName": "Sales",
+      "ColorIndex": 2
+    },
+    "e9d18aa9-d626-4993-b300-63c77152e255": {
+      "ProjectGuid": "e9d18aa9-d626-4993-b300-63c77152e255",
+      "DisplayName": "Billing",
+      "ColorIndex": 3
+    },
+    "bcdb4d7b-7453-44f8-84fb-72fccf6049fc": {
+      "ProjectGuid": "bcdb4d7b-7453-44f8-84fb-72fccf6049fc",
+      "DisplayName": "Billing.Messages",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

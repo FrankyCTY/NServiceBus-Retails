@@ -1,0 +1,12 @@
+C:\Users\chant\source\repos\RetailDemo\Messages\bin\Debug\net6.0\Messages.deps.json
+C:\Users\chant\source\repos\RetailDemo\Messages\bin\Debug\net6.0\Messages.dll
+C:\Users\chant\source\repos\RetailDemo\Messages\bin\Debug\net6.0\ref\Messages.dll
+C:\Users\chant\source\repos\RetailDemo\Messages\bin\Debug\net6.0\Messages.pdb
+C:\Users\chant\source\repos\RetailDemo\Messages\obj\Debug\net6.0\Messages.csproj.AssemblyReference.cache
+C:\Users\chant\source\repos\RetailDemo\Messages\obj\Debug\net6.0\Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chant\source\repos\RetailDemo\Messages\obj\Debug\net6.0\Messages.AssemblyInfoInputs.cache
+C:\Users\chant\source\repos\RetailDemo\Messages\obj\Debug\net6.0\Messages.AssemblyInfo.cs
+C:\Users\chant\source\repos\RetailDemo\Messages\obj\Debug\net6.0\Messages.csproj.CoreCompileInputs.cache
+C:\Users\chant\source\repos\RetailDemo\Messages\obj\Debug\net6.0\Messages.dll
+C:\Users\chant\source\repos\RetailDemo\Messages\obj\Debug\net6.0\ref\Messages.dll
+C:\Users\chant\source\repos\RetailDemo\Messages\obj\Debug\net6.0\Messages.pdb
